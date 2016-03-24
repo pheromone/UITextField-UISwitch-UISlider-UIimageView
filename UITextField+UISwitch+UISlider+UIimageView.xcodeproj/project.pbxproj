@@ -12,16 +12,26 @@
 		A7DD37C31CA3B929000271A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37C11CA3B929000271A1 /* Main.storyboard */; };
 		A7DD37C51CA3B929000271A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37C41CA3B929000271A1 /* Assets.xcassets */; };
 		A7DD37C81CA3B929000271A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37C61CA3B929000271A1 /* LaunchScreen.storyboard */; };
+		A7DD37D11CA3CC22000271A1 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37CF1CA3CC22000271A1 /* stop.png */; };
+		A7DD37D21CA3CC22000271A1 /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37D01CA3CC22000271A1 /* start.png */; };
+		A7DD37D51CA3CD9E000271A1 /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37D31CA3CD9E000271A1 /* right.png */; };
+		A7DD37D61CA3CD9E000271A1 /* left.png in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37D41CA3CD9E000271A1 /* left.png */; };
+		A7DD37D81CA3CE77000271A1 /* center.png in Resources */ = {isa = PBXBuildFile; fileRef = A7DD37D71CA3CE76000271A1 /* center.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A7DD37BA1CA3B929000271A1 /* UITextField+UIImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UITextField+UIImage.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7DD37BA1CA3B929000271A1 /* UITextField+UISwitch+UISlider+UIimageView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UITextField+UISwitch+UISlider+UIimageView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7DD37BD1CA3B929000271A1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7DD37BF1CA3B929000271A1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A7DD37C21CA3B929000271A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A7DD37C41CA3B929000271A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7DD37C71CA3B929000271A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7DD37C91CA3B929000271A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7DD37CF1CA3CC22000271A1 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		A7DD37D01CA3CC22000271A1 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
+		A7DD37D31CA3CD9E000271A1 /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right.png; sourceTree = "<group>"; };
+		A7DD37D41CA3CD9E000271A1 /* left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = left.png; sourceTree = "<group>"; };
+		A7DD37D71CA3CE76000271A1 /* center.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = center.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +56,7 @@
 		A7DD37BB1CA3B929000271A1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A7DD37BA1CA3B929000271A1 /* UITextField+UIImage.app */,
+				A7DD37BA1CA3B929000271A1 /* UITextField+UISwitch+UISlider+UIimageView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -54,6 +64,11 @@
 		A7DD37BC1CA3B929000271A1 /* UITextField+UIImage */ = {
 			isa = PBXGroup;
 			children = (
+				A7DD37CF1CA3CC22000271A1 /* stop.png */,
+				A7DD37D01CA3CC22000271A1 /* start.png */,
+				A7DD37D31CA3CD9E000271A1 /* right.png */,
+				A7DD37D71CA3CE76000271A1 /* center.png */,
+				A7DD37D41CA3CD9E000271A1 /* left.png */,
 				A7DD37BD1CA3B929000271A1 /* AppDelegate.swift */,
 				A7DD37BF1CA3B929000271A1 /* ViewController.swift */,
 				A7DD37C11CA3B929000271A1 /* Main.storyboard */,
@@ -67,9 +82,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A7DD37B91CA3B929000271A1 /* UITextField+UIImage */ = {
+		A7DD37B91CA3B929000271A1 /* UITextField+UISwitch+UISlider+UIimageView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7DD37CC1CA3B929000271A1 /* Build configuration list for PBXNativeTarget "UITextField+UIImage" */;
+			buildConfigurationList = A7DD37CC1CA3B929000271A1 /* Build configuration list for PBXNativeTarget "UITextField+UISwitch+UISlider+UIimageView" */;
 			buildPhases = (
 				A7DD37B61CA3B929000271A1 /* Sources */,
 				A7DD37B71CA3B929000271A1 /* Frameworks */,
@@ -79,9 +94,9 @@
 			);
 			dependencies = (
 			);
-			name = "UITextField+UIImage";
+			name = "UITextField+UISwitch+UISlider+UIimageView";
 			productName = "UITextField+UIImage";
-			productReference = A7DD37BA1CA3B929000271A1 /* UITextField+UIImage.app */;
+			productReference = A7DD37BA1CA3B929000271A1 /* UITextField+UISwitch+UISlider+UIimageView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A7DD37B51CA3B929000271A1 /* Build configuration list for PBXProject "UITextField+UIImage" */;
+			buildConfigurationList = A7DD37B51CA3B929000271A1 /* Build configuration list for PBXProject "UITextField+UISwitch+UISlider+UIimageView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -112,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A7DD37B91CA3B929000271A1 /* UITextField+UIImage */,
+				A7DD37B91CA3B929000271A1 /* UITextField+UISwitch+UISlider+UIimageView */,
 			);
 		};
 /* End PBXProject section */
@@ -122,8 +137,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7DD37D51CA3CD9E000271A1 /* right.png in Resources */,
 				A7DD37C81CA3B929000271A1 /* LaunchScreen.storyboard in Resources */,
+				A7DD37D11CA3CC22000271A1 /* stop.png in Resources */,
+				A7DD37D21CA3CC22000271A1 /* start.png in Resources */,
 				A7DD37C51CA3B929000271A1 /* Assets.xcassets in Resources */,
+				A7DD37D61CA3CD9E000271A1 /* left.png in Resources */,
+				A7DD37D81CA3CE77000271A1 /* center.png in Resources */,
 				A7DD37C31CA3B929000271A1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -252,7 +272,7 @@
 				INFOPLIST_FILE = "UITextField+UIImage/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.9elephas.UITextField-UIImage";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "UITextField+UISwitch+UISlider+UIimageView";
 			};
 			name = Debug;
 		};
@@ -263,14 +283,14 @@
 				INFOPLIST_FILE = "UITextField+UIImage/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.9elephas.UITextField-UIImage";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "UITextField+UISwitch+UISlider+UIimageView";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7DD37B51CA3B929000271A1 /* Build configuration list for PBXProject "UITextField+UIImage" */ = {
+		A7DD37B51CA3B929000271A1 /* Build configuration list for PBXProject "UITextField+UISwitch+UISlider+UIimageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7DD37CA1CA3B929000271A1 /* Debug */,
@@ -279,13 +299,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A7DD37CC1CA3B929000271A1 /* Build configuration list for PBXNativeTarget "UITextField+UIImage" */ = {
+		A7DD37CC1CA3B929000271A1 /* Build configuration list for PBXNativeTarget "UITextField+UISwitch+UISlider+UIimageView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7DD37CD1CA3B929000271A1 /* Debug */,
 				A7DD37CE1CA3B929000271A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

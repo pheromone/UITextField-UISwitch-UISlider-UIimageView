@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A7DD37B91CA3B929000271A1"
-               BuildableName = "UITextField+UIImage.app"
-               BlueprintName = "UITextField+UIImage"
-               ReferencedContainer = "container:UITextField+UIImage.xcodeproj">
+               BuildableName = "UITextField+UISwitch+UISlider+UIimageView.app"
+               BlueprintName = "UITextField+UISwitch+UISlider+UIimageView"
+               ReferencedContainer = "container:UITextField+UISwitch+UISlider+UIimageView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7DD37B91CA3B929000271A1"
-            BuildableName = "UITextField+UIImage.app"
-            BlueprintName = "UITextField+UIImage"
-            ReferencedContainer = "container:UITextField+UIImage.xcodeproj">
+            BuildableName = "UITextField+UISwitch+UISlider+UIimageView.app"
+            BlueprintName = "UITextField+UISwitch+UISlider+UIimageView"
+            ReferencedContainer = "container:UITextField+UISwitch+UISlider+UIimageView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7DD37B91CA3B929000271A1"
-            BuildableName = "UITextField+UIImage.app"
-            BlueprintName = "UITextField+UIImage"
-            ReferencedContainer = "container:UITextField+UIImage.xcodeproj">
+            BuildableName = "UITextField+UISwitch+UISlider+UIimageView.app"
+            BlueprintName = "UITextField+UISwitch+UISlider+UIimageView"
+            ReferencedContainer = "container:UITextField+UISwitch+UISlider+UIimageView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A7DD37B91CA3B929000271A1"
-            BuildableName = "UITextField+UIImage.app"
-            BlueprintName = "UITextField+UIImage"
-            ReferencedContainer = "container:UITextField+UIImage.xcodeproj">
+            BuildableName = "UITextField+UISwitch+UISlider+UIimageView.app"
+            BlueprintName = "UITextField+UISwitch+UISlider+UIimageView"
+            ReferencedContainer = "container:UITextField+UISwitch+UISlider+UIimageView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
